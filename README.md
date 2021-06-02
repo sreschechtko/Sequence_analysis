@@ -4,7 +4,7 @@ MATLAB functions to take KINARM output and identify various trial features. Writ
 
 Components:
 time_intargetcont -- function to find amount of time the hand was in a given target
-//
+
 intarg_loop -- example use of time_interagetcont to extract all dwell times 
-//
+
 get_times -- function to read relevant event codes
